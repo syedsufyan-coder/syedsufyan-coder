@@ -14,7 +14,7 @@ I’m currently learning, building, and collaborating on projects that bring AI 
 ---
 
 ### 📫 Connect with me:
-- 💼 [LinkedIn – Syed Muhammad Sufyan](https://www.linkedin.com/)
+- 💼 [LinkedIn – Syed Muhammad Sufyan](https://www.linkedin.com/in/syed-muhammad-sufyan-b02412368)
 - 📧 Email: *isyedsufyan2005@gmail.com* <!-- Replace this with your email if you want -->
 
 ---
@@ -25,3 +25,4 @@ Let’s connect, learn, and grow together! 🚀
 ---
 
 ![Sufyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=syedsufyan-coder&show_icons=true&theme=tokyonight)
+![LeetCode Badge](https://leetcode-badge-sage.vercel.app/badge/syed-sufyan?theme=dark)
