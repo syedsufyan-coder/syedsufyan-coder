@@ -21,3 +21,7 @@ I’m currently learning, building, and collaborating on projects that bring AI 
 
 Thanks for visiting my profile! Feel free to explore my repositories, raise issues, and contribute.  
 Let’s connect, learn, and grow together! 🚀
+
+---
+
+![Sufyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=syedsufyan-coder&show_icons=true&theme=tokyonight)
