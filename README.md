@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Syed Sufyan! 👋
 
-<!--
-**syedsufyan-coder/syedsufyan-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a second-year Computer Science student with a passion for building intelligent, user-focused software systems.  
+Eager to explore and contribute to the world of Artificial Intelligence, I’m particularly interested in:
 
-Here are some ideas to get you started:
+- 🧠 Machine Learning (ML)
+- 🕸️ Deep Learning (DL)
+- 👥 User-focused Software Solutions
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Alongside AI, I actively engage in **competitive programming**, constantly challenging myself to improve algorithmic thinking and problem-solving efficiency.
+
+I’m currently learning, building, and collaborating on projects that bring AI concepts into real-world applications. Whether it’s solving a tough coding problem or designing a better user experience, I’m always excited to take on a new challenge.
+
+---
+
+### 📫 Connect with me:
+- 💼 [LinkedIn – Syed Muhammad Sufyan](https://www.linkedin.com/)
+- 📧 Email: *isyedsufyan2005@gmail.com* <!-- Replace this with your email if you want -->
+
+---
+
+Thanks for visiting my profile! Feel free to explore my repositories, raise issues, and contribute.  
+Let’s connect, learn, and grow together! 🚀
