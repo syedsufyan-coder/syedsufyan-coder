@@ -24,5 +24,6 @@ Let’s connect, learn, and grow together! 🚀
 
 ---
 
-![Sufyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=syedsufyan-coder&show_icons=true&theme=tokyonight)
-![LeetCode Badge](https://leetcode-badge-sage.vercel.app/badge/syed-sufyan?theme=dark)
+![Sufyan's GitHub stats](https://github-readme-stats.vercel.app/api?username=syedsufyan-coder&show_icons=true&theme=merko)
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/syed-sufyan?theme=dark&font=Baloo%202&ext=activity)
