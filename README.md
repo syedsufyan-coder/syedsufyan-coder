@@ -4,8 +4,8 @@
   alt="Typing SVG"
 />
 </p>
-<h3 align="center">Machine Learning Enthusiast • .NET Developer</h3>
-<h5 align="center">BS Computer Science, Class of 2028</h5>
+<h3 align="center">Machine Learning Enthusiast + .NET Developer</h3>
+<h4 align="center">BS Computer Science, Class of 2028</h4>
 
 ## 📚 Learning Stack:
 
