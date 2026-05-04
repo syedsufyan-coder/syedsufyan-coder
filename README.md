@@ -43,7 +43,7 @@ Visitors:
 </td>
 
 <td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=cs" width="55" height="55"/><br>CSharp
+<img src="https://skillicons.dev/icons?i=cs" width="55" height="55"/><br>C#
 </td>
 
 <td align="center" width="90">
@@ -169,10 +169,13 @@ Visitors:
 ## 📊 GitHub Stats:
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedsufyan-coder&theme=radical&layout=compact" height="170"/>
+  <p align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=syedsufyan-coder&theme=github_dark&graph=false&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
+</p>
+  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedsufyan-coder&theme=radical&layout=compact" height="170"/>
   <br/>
- <!-- <img src="https://github-readme-stats.vercel.app/api?username=syedsufyan-coder&theme=radical" height="170"/> -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedsufyan-coder&theme=radical" height="170"/>
+ <!-- <img src="https://github-readme-stats.vercel.app/api?username=syedsufyan-coder&theme=radical" height="170"/> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedsufyan-coder&theme=radical" height="170"/> -->
   <br/>
 </div>
 
