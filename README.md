@@ -27,7 +27,7 @@ Visitors:
 
 - 🤖 If it works, it’s ***AI***. If it doesn’t, I’m still ***learning***
 
-# 💻 Tech Stack:
+## 💻 Tech Stack:
 <table align="center">
 <tbody>
 
@@ -166,21 +166,12 @@ Visitors:
 </tbody>
 </table>
 
-# 📊 GitHub Stats:
-<!-- ![](https://github-readme-stats.vercel.app/api?username=syedsufyan-coder&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=syedsufyan-coder&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=syedsufyan-coder&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=syedsufyan-coder&theme=radical&hide_border=false&include_all_commits=false&count_private=false" width="48%" height="90%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=syedsufyan-coder&theme=radical&hide_border=false" width="48%" height="100%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedsufyan-coder&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</div> -->
+## 📊 GitHub Stats:
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedsufyan-coder&theme=radical&layout=compact" height="170"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=syedsufyan-coder&theme=radical" height="170"/>
+ <!-- <img src="https://github-readme-stats.vercel.app/api?username=syedsufyan-coder&theme=radical" height="170"/> -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedsufyan-coder&theme=radical" height="170"/>
   <br/>
 </div>
