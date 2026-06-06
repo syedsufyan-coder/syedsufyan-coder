@@ -21,7 +21,10 @@
 
 ## 🤝 Let's Connect
 
-*"Building things that work — one commit at a time. Currently learning, shipping, and occasionally breaking prod in the most educational ways."*
+<table><tr>
+  <td width="4" bgcolor="#0F6E56">💻</td>
+  <td>&nbsp;&nbsp;<em>"From Databases to Deep Learning — building AI that ships."</em></td>
+</tr></table>
 
 <br/>
 
@@ -30,10 +33,6 @@
 [![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isyedsufyan2005@gmail.com)
 
 <br/>
-
-### Visitors
-
-![Profile Views](https://komarev.com/ghpvc/?username=syedsufyan-coder&style=for-the-badge)
 
 ## 💻 Tech Stack:
 <table align="center">
@@ -185,6 +184,9 @@
  <!-- <img src="https://github-readme-stats.vercel.app/api?username=syedsufyan-coder&theme=radical" height="170"/> 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedsufyan-coder&theme=radical" height="170"/> -->
   <br/>
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=syedsufyan-coder&style=for-the-badge)
+  
 </div>
 
 ## 🏆 GitHub Trophies
