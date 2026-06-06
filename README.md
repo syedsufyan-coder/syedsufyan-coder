@@ -19,13 +19,21 @@
 
 <img align="right" alt="Coding" width="369" src="https://github.com/user-attachments/assets/9472fbe9-6441-4c30-8b0b-20096ee2050d">
 
-Visitors:
+## 🤝 Let's Connect
+
+*"Building things that work — one commit at a time. Currently learning, shipping, and occasionally breaking prod in the most educational ways."*
+
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/insyedsufyan/)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-FF9D00?style=for-the-badge&logo=huggingface&logoColor=3d2500)](https://huggingface.co/isyedsufyan)
+[![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isyedsufyan2005@gmail.com)
+
+<br/>
+
+### Visitors
 
 ![Profile Views](https://komarev.com/ghpvc/?username=syedsufyan-coder&style=for-the-badge)
-
-- 📧 Connect with me: **isyedsufyan2005@gmail.com**
-
-- 🤖 If it works, it’s ***AI***. If it doesn’t, I’m still ***learning***
 
 ## 💻 Tech Stack:
 <table align="center">
