@@ -4,8 +4,8 @@
   alt="Typing SVG"
 />
 </p>
-<h3 align="center">Machine Learning Enthusiast • .NET Developer</h3>
-<h5 align="center">BS Computer Science, Class of 2028</h5>
+<h3 align="center">Machine Learning Enthusiast + .NET Developer</h3>
+<h4 align="center">BS Computer Science, Class of 2028</h4>
 
 ## 📚 Learning Stack:
 
@@ -19,15 +19,22 @@
 
 <img align="right" alt="Coding" width="369" src="https://github.com/user-attachments/assets/9472fbe9-6441-4c30-8b0b-20096ee2050d">
 
-Visitors:
+## 🤝 Let's Connect
 
-![Profile Views](https://komarev.com/ghpvc/?username=syedsufyan-coder&style=for-the-badge)
+<table><tr>
+  <td width="4" bgcolor="#0F6E56">💻</td>
+  <td>&nbsp;&nbsp;<em>"From Databases to Deep Learning — building AI that ships."</em></td>
+</tr></table>
 
-- 📧 Connect with me: **isyedsufyan2005@gmail.com**
+<br/>
 
-- 🤖 If it works, it’s ***AI***. If it doesn’t, I’m still ***learning***
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/insyedsufyan/)
+[![HuggingFace](https://img.shields.io/badge/HuggingFace-FF9D00?style=for-the-badge&logo=huggingface&logoColor=3d2500)](https://huggingface.co/isyedsufyan)
+[![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isyedsufyan2005@gmail.com)
 
-# 💻 Tech Stack:
+<br/>
+
+## 💻 Tech Stack:
 <table align="center">
 <tbody>
 
@@ -43,7 +50,7 @@ Visitors:
 </td>
 
 <td align="center" width="90">
-<img src="https://skillicons.dev/icons?i=cs" width="55" height="55"/><br>CSharp
+<img src="https://skillicons.dev/icons?i=cs" width="55" height="55"/><br>C#
 </td>
 
 <td align="center" width="90">
@@ -166,23 +173,20 @@ Visitors:
 </tbody>
 </table>
 
-# 📊 GitHub Stats:
-<!-- ![](https://github-readme-stats.vercel.app/api?username=syedsufyan-coder&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=syedsufyan-coder&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=syedsufyan-coder&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+## 📊 GitHub Stats:
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=syedsufyan-coder&theme=radical&hide_border=false&include_all_commits=false&count_private=false" width="48%" height="90%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=syedsufyan-coder&theme=radical&hide_border=false" width="48%" height="100%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedsufyan-coder&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-</div> -->
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedsufyan-coder&theme=radical&layout=compact" height="170"/>
+  <p align="center">
+  <img src="https://yourinsights.vercel.app/api/insight?username=syedsufyan-coder&theme=github_dark&graph=false&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
+</p>
+  <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedsufyan-coder&theme=radical&layout=compact" height="170"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=syedsufyan-coder&theme=radical" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedsufyan-coder&theme=radical" height="170"/>
+ <!-- <img src="https://github-readme-stats.vercel.app/api?username=syedsufyan-coder&theme=radical" height="170"/> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=syedsufyan-coder&theme=radical" height="170"/> -->
   <br/>
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=syedsufyan-coder&style=for-the-badge)
+  
 </div>
 
 ## 🏆 GitHub Trophies
