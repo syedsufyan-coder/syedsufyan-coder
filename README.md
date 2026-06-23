@@ -17,14 +17,11 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-yellow?style=for-the-badge&logo=huggingface&labelColor=black)
 
-<img align="right" alt="Coding" width="369" src="https://github.com/user-attachments/assets/9472fbe9-6441-4c30-8b0b-20096ee2050d">
-
 ## 🤝 Let's Connect
 
-<table><tr>
-  <td width="4" bgcolor="#0F6E56">💻</td>
-  <td>&nbsp;&nbsp;<em>"From Databases to Deep Learning — building AI that ships."</em></td>
-</tr></table>
+<div align="center">
+  
+### *"From Databases to Deep Learning — building AI that ships."*
 
 <br/>
 
@@ -32,7 +29,8 @@
 [![HuggingFace](https://img.shields.io/badge/HuggingFace-FF9D00?style=for-the-badge&logo=huggingface&logoColor=3d2500)](https://huggingface.co/isyedsufyan)
 [![Email](https://img.shields.io/badge/Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:isyedsufyan2005@gmail.com)
 
-<br/>
+
+</div>
 
 ## 💻 Tech Stack:
 <table align="center">
