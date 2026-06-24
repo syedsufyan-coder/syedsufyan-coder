@@ -32,6 +32,8 @@
 
 </div>
 
+<!--
+
 ## 💻 Tech Stack:
 <table align="center">
 <tbody>
@@ -169,7 +171,9 @@
 </tr>
 
 </tbody>
-</table>
+</table> 
+
+-->
 
 ## 📊 GitHub Stats:
 
