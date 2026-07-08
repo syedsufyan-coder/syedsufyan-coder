@@ -32,6 +32,15 @@
 
 </div>
 
+## 🖥️ Tech Stack:
+
+<div align="center">
+
+### Languages
+<img src="https://skillicons.dev/icons?i=python,c,cpp,cs,js,ts&theme=dark&perline=9" />
+
+</div>
+
 ## 📊 GitHub Stats:
 
 <div align="center">
