@@ -45,7 +45,7 @@
 
 <div align="center">
   <p align="center">
-  <img src="https://yourinsights.vercel.app/api/insight?username=syedsufyan-coder&theme=github_dark&graph=false&languages=true&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
+  <img src="https://yourinsights.vercel.app/api/insight?username=syedsufyan-coder&theme=github_dark&graph=false&languages=true&hide_langs=jupyter%20notebook&streak=true&stats=true&header=true&summary=true&profile=true" alt="GitHub Insights" />
 </p>
   <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=syedsufyan-coder&theme=radical&layout=compact" height="170"/>
   <br/>
